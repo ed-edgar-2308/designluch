@@ -19,7 +19,7 @@ A simple landing page - DesignLuch. 📚
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-- [DesignLuch | Home](https://ralph2308s.github.io/designluch/)
+- [Home | Designluch](https://ralph2308s.github.io/designluch/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
